@@ -8,15 +8,11 @@
 
 </div>
 
-
-
 <div align="center">
-
-
-
-https://github.com/CeLo93/IA_VilleDefender/assets/92175791/adf290e6-e88e-40e7-9ebb-be8d50042305
-
-
+  <video controls muted autoplay onloadedmetadata="this.muted = false;">
+    <source src="https://github.com/CeLo93/IA_VilleDefender/assets/92175791/adf290e6-e88e-40e7-9ebb-be8d50042305" type="video/mp4">
+    Seu navegador não suporta a reprodução de vídeo.
+  </video>
 </div>
 
 
