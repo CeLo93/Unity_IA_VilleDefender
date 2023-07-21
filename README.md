@@ -62,7 +62,7 @@ Meu reino ainda está em construção, mas você pode acompanhar todo o progress
 
 Para explorar o mundo medieval do IA_VilleDefender em sua máquina:
 
-1. Certifique-se de ter o Unity instalado em seu computador (versão X.X.X recomendada).
+1. Certifique-se de ter o Unity instalado em seu computador (versão 2022.3.3f recomendada).
 
 2. Clone este repositório em sua máquina:
 
