@@ -13,6 +13,11 @@
 https://github.com/CeLo93/IA_VilleDefender/assets/92175791/adf290e6-e88e-40e7-9ebb-be8d50042305
 
 </div>
+<div align="center">
+
+ 🎬 Video 01 - Rodando a cena 🎬
+
+</div>
 
 
 ## Descrição
@@ -34,6 +39,22 @@ Uma das mecânicas mais empolgantes é a escolha aleatória dos pontos de destin
 Como desenvolvo este projeto sozinho, prezo pela organização para maximizar minha eficiência. O projeto principal, denominado "UNITY_RPG_project_0.3", é o coração do meu jogo, onde todas as peças se encaixam perfeitamente.
 
 O "IA_VilleDefender" é o meu laboratório paralelo, uma oficina onde crio e testo novas funcionalidades antes de incorporá-las ao projeto principal. Essa prática me ajuda a evitar sobrecargas de recursos desnecessários e me permite focar no que realmente importa: criar um mundo mágico e envolvente.
+
+
+
+
+
+https://github.com/CeLo93/IA_VilleDefender/assets/92175791/23574443-4525-4d2e-8a5b-66284cec7ea4
+
+
+
+<div align="center">
+
+ 🎬 Video 02 - O "laboratório" 🎬
+
+</div>
+
+
 
 ## Executando o Projeto - Uma Jornada Em Progresso
 
@@ -63,4 +84,4 @@ Apesar de estar desenvolvendo o projeto sozinho, sempre estou aberto(a) a feedba
 - E-mail: marcelobrito.py@gmail.com
 - GitHub: [CeLo93](https://github.com/Celo93)
 
-Obrigado por se interessar pelo IA_VilleDefender! Junte-se à minha jornada e ajude-me a criar uma experiência épica de IA com temática medieval. Que a magia da IA esteja com você! 🧙‍♂️🏰
+Obrigado por se interessar pelo IA_VilleDefender! 
