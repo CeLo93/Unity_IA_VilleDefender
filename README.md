@@ -14,11 +14,11 @@ https://github.com/CeLo93/IA_VilleDefender/assets/92175791/89b1119e-1636-4f97-ab
 
 ## Descrição 🏰
 
-Bem-vindo(a) ao IA_VilleDefender, o espetáculo medieval da inteligência artificial em ação! Testemunhe a emocionante jornada dos NPCs em um ambiente medieval, ganhando vida através de mecânicas inteligentes. Prepare-se para vivenciar a fantástica jornada dos NPCs através das mecânicas de orientação pelo NavMesh, níveis de prioridade e momentos de pausa nos waypoints, criados com corrotinas. ⚙️
+Bem-vindo(a) ao IA_VilleDefender, meu projeto de inteligência artificial em ação! A ideia é fazer uma jornada dos NPCs em um ambiente medieval, ganhando vida através de mecânicas inteligentes. A ideia é vivenciar a  jornada dos NPCs através das mecânicas de orientação pelo NavMesh, níveis de prioridade e momentos de pausa nos waypoints, criados com corrotinas. ⚙️
 
 ## Projeto 2 - A Caçada Medieval 🎯🏹
 
-No projeto 2 anexo, você encontrará a implementação das mecânicas do primeiro projeto IA_VilleDefender. Aqui, você testemunhará a perseguição implacável dos invasores aos villagers e a determinação do "guarda" em perseguir os invasores. Embora a mecânica para o guarda eliminar o invasor ainda não esteja implementada, você terá a chance de experimentar a empolgante ação das esferas de colisões! Sempre que o invasor entra no raio de detecção dos NPCs, prepare-se para vê-los mudar de direção e tentar fugir em uma verdadeira dança estratégica. 🏃‍♂️💨
+No projeto 2 ("laboratório", não o incluí pois faz parte de outro protótipo teste), você encontrará a implementação das mecânicas do primeiro projeto IA_VilleDefender. Aqui, você verá a perseguição implacável do invasor aos villagers e a determinação do "guarda" em perseguir o invasor. Embora a mecânica para o guarda eliminar o invasor ainda não esteja implementada, você terá a chance de experimentar a empolgante ação das esferas de colisões! Sempre que o invasor entra no raio de detecção dos NPCs, prepare-se para vê-los mudar de direção e tentar fugir em uma verdadeira dança estratégica, como se realmente tivessem medo. 🏃‍♂️💨
 
 ## A Magia da Escolha Aleatória 🎲✨
 
